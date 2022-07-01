@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * The program prints out all alphabet letter.
+ * main - The program prints out all alphabet letter.
  * 
- * Return : Always 0.
+ * Return: Always 0.
  */
 int main(void)
 {
