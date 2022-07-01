@@ -3,7 +3,7 @@
  * main - Prints alphebets except q and e
  * Return: Always
  */
-int mai(void)
+int main(void)
 {
 	char letter;
 	 
