@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.c"
 /**
  * function: prototype for printing lower alphabet character using _putchar function
  */
