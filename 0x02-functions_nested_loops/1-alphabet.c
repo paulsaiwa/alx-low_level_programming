@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * function: prototype for printing lower alphabet character using _putchar function
+ * main - unction that prints the alphabet, in lowercase,
+ * Return: Always 0.
  */
-void print_alphabet(void)
+int main(void)
 {
 	char c;
 	for (c = 'a'; c <= 'z'; c++)
