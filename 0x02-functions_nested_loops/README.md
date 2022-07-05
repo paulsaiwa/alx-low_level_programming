@@ -1,1 +1,1 @@
-This is function implemntation in C Language
+failing function
