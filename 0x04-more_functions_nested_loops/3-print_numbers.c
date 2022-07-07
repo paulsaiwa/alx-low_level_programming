@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * print_numbers - prints 0123456789\n
@@ -17,5 +17,3 @@ void print_numbers(void)
 	}
 	_putchar('\n');
 }
-Footer
-
