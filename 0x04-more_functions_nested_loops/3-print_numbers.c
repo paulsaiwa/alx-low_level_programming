@@ -1,14 +1,21 @@
-#include "main.h"
+include "main.h"
+
 /**
- * main - check the code
+ * print_numbers - prints 0123456789\n
  *
- * Return: Always 0.
+ * Return: void
  */
+
+
 void print_numbers(void)
 {
-	char c = '0';
-		while (c < '9')
-			_putchar(c);
-		a++;
-		_putchar('\n');
+	char c;
+
+	for (c = '0'; c <= '9'; c++)
+	{
+		_putchar(c);
+	}
+	_putchar('\n');
 }
+Footer
+
